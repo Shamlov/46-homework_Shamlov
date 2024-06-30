@@ -1,0 +1,32 @@
+@import "null.scss";
+
+p{
+  font-size: 20px;
+}
+.wrapper {
+  width: 900px;
+  height: 100vh;
+  padding: 10px;
+  margin: 0 auto;
+  background-color: rgb(216, 219, 186);
+}
+
+.recipe-block {
+  padding: 5px;
+  font-size: 14px;
+  background-color: rgb(186, 219, 255);
+}
+
+button {
+  padding: 5px;
+  background-color: rgb(255, 220, 47);
+  border: solid 1px black;
+}
+
+img {
+  width: 300px;
+}
+
+.text {
+  font-size: 16px;
+}

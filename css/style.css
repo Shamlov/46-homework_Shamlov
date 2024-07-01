@@ -76,7 +76,7 @@ p {
 
 .wrapper {
   width: 900px;
-  height: 100vh;
+  height: 100%;
   padding: 10px;
   margin: 0 auto;
   background-color: rgb(216, 219, 186);
@@ -100,4 +100,8 @@ img {
 
 .text {
   font-size: 16px;
+}
+
+.recipe-block {
+  margin: 20px 0;
 }/*# sourceMappingURL=style.css.map */
